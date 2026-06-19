@@ -532,7 +532,3 @@ The following choices were made to reduce operational cost while maintaining arc
 - GitHub Actions
 
 ---
-
-# Resume Summary
-
-Built a production-style multi-tier e-commerce platform on AWS using ECS Fargate microservices integrated with RDS PostgreSQL, DynamoDB, and S3. Implemented event-driven order processing using SQS, Lambda, and SNS. Automated container deployments through GitHub Actions and Amazon ECR. Secured workloads using IAM roles, AWS KMS, Secrets Manager, CloudTrail, and AWS WAF. Implemented centralized monitoring, alerting, and auto scaling using Amazon CloudWatch and ECS Service Auto Scaling.
